@@ -8,3 +8,4 @@ The following libraries were used during the study:
 - Numpy,
 - Keras.
 
+A trained neural network has an accuracy of 67%.
